@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.videostreaming.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\tpura\\Desktop\\Unity Projects\\Video Streaming\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Video Streaming [Testing]"
+        }
+      }
+    }
+  ]
+}
